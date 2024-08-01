@@ -1,0 +1,10 @@
+span {
+  color: grey;
+  padding-left: 10px;
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.active {
+  color: rgb(38, 7, 66) !important;
+}

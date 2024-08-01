@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "title": "BlueBerry ",
+        "category":"Fotoperiodica",
+        "detail":"Blueberry Fem es una de las mejores cepas del mundo, se recomienda para cultivadores con experiencia debido a que necesita una meticulosa alimentación y cuidado. Con un poco de frío sacará a la luz un verdadero arcoíris de tonalidades azules y púrpuras que te asombrará.",
+        "price": 35000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/blueberry%20fem%20fotoperiodica.webp"
+        
+    },
+    {
+        "id": 2,
+        "title": "Gorila Glue ",
+        "category":"Fotoperiodica",
+        "detail":"Gorilla Glue Auto es resultado del cruce de nuestro clon autofloreciente de tercera generación con un clon élite Gorilla Glue #4, obteniendo una planta de estatura media y fácil cultivo. Totalmente recomendable para todo tipo de cultivadores, donde se requiere estar bien fertilizada para entregar su máxima producción.",
+        "price": 35000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/gorila%20glue%20fotoperiodica.webp"
+        
+    },
+    {
+        "id": 3,
+        "title": "Lebron Haze ",
+        "category":"Fotoperiodica",
+        "detail":"Lebron Haze es nuestro nuevo híbrido sativo con increíble sabor a limón inciensado y madera de cedro, cuya resina cubre toda sus flores, ideal para coleccionistas principiantes como experimentados. Lebron Haze es considerado uno de los mejores jugadores de nuestra liga, ganándose un puesto directo en los Stars Players, destronando a la Super Lemon Haze",
+        "price": 35000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/lebron%20haze%20fotoperiodica.webp",
+        "stock": true
+        
+    },
+    {
+        "id": 4,
+        "title": "Moby D ",
+        "category":"Autofloreciente",
+        "detail":"Esta variedad mantiene todas las características de la Moby-D feminizada que la han hecho tan popular, pero con la velocidad de una autoflora, Para lograr este espectacular ejemplar, hemos cruzado nuestra Moby-D autofloreciente de 3ª generación con nuestro Haze autofloreciente de 3ª generación, obteniendo una variedad de estatura alta, productora y muy resinosa, perfecta para inferior como para exterior. ",
+        "price": 40000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/moby%20d%20autofloreciente.webp",
+        "stock": true
+        
+    },
+    {
+        "id": 5,
+        "title": "Red Critical ",
+        "category":"Autofloreciente",
+        "detail":"Red Critical Auto tiene fuertes tonos rojos y púrpuras que la transforman en una belleza al ojo de cualquier observador. Su estatura es media-grande, de muy fácil cuidado ya que no requiere cuidados especiales. Con grandes brazos, pesados y resinosos, volviéndose necesario utilizar tutores al final de floración.",
+        "price": 40000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/red%20critiical%20autofloreciente.webp"
+        
+    },
+    {
+        "id": 6,
+        "title": "Tangie ",
+        "category":"Autofloreciente",
+        "detail":"Tangie XXL Auto es una variedad con un alto contenido de THC para ser una semilla autofloreciente, llegando a presentar hasta un 18% de THC, trayendo consigo una sensación de felicidad y euforia que aumenta la creatividad y alivia el estrés.",
+        "price": 40000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/tangie%20autofloreciente.webp"
+        
+    },
+    {
+        "id": 7,
+        "title": "All Star ",
+        "category":"Blisterx12",
+        "detail":"OG Kush Auto BSF Seeds les trae una de las variedades más famosas de California en su modalidad Auto, la OG Kush Auto. Su nombre, OG Kush, es del acrónimo de Ocean Grow Kush o Kush cultivada en el océano. La OG Kush Auto nace del cruce de una cepa principalmente indica de 3ª generación con nuestro clon élite OG Kush. ",
+        "price": 120000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/x12%20allstar%20blister.webp"
+        
+    },
+    {
+        "id": 8,
+        "title": "Dream team ",
+        "category":"Blisterx12",
+        "detail":"El DreamTeam Feminized Mix tiene todo lo que un cultivador desea. Es una de las joyas de BSF por sus reconocidas variedades de gran productividad, potencia y predominancia sativa, ideal para un disfrute bien high. ¿Qué es el Dream Team Feminized Mix? Es un mix compuesto por cuatro variedades que fueron seleccionadas por su alta producción de cogollos, rápida floración y resistencia a las enfermedades.",
+        "price": 120000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/x12%20dream%20team%20blister.webp"
+        
+    },
+    {
+        "id": 9,
+        "title": "Psycho ",
+        "category":"Blisterx12",
+        "detail":"Amnesia XXL Auto Llega a BSF Seeds un clásico de todos los tiempos, en su versión autofloreciente y super productora, la Amnesia XXL Auto. Esta variedad se caracteriza por ser un ejemplar de estatura media-alta y muy fácil de cuidar, por su resistencia a plagas y enfermedades.",
+        "price": 120000,
+        "pictureUrl": "https://snaxeres.github.io/imagenesGS/image/x12%20psycho%20blister.webp"
+        
+    }
+    ]
